@@ -1,6 +1,6 @@
 export const canvas = document.querySelector('#canvas')
 const ctx = canvas.getContext('2d')
-const d = 3
+const d = 3 // Восьмёрки на странице ssm
 const tileWidth = canvas.width / d
 const tileHeight = canvas.height / d
 const tileColor = '#ccccff'
