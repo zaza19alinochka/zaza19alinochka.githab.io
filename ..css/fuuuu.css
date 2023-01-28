@@ -17,6 +17,7 @@ h1{
 
 #canvas {
 	z-index: 9999;
+	color: red;
 }
 
 body{
