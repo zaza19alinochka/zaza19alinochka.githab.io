@@ -1,7 +1,7 @@
 import {getNeighbors, random_from_list} from "./helper.js"
 
 
-export default class Game
+export class Game
 {
 	constructor(dimension, nMines)
 	{
