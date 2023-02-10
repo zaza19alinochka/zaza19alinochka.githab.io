@@ -1,4 +1,4 @@
-import Game from "./game.js"
+import {Game} from "./game.js"
 import {GameView, clickToTail, canvas} from "./view.js"
 import {MinesweeperAI} from "./minesweeper.js"
 import {dimension, nMine} from "./config.js"
